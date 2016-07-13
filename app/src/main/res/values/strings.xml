@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Traffic_tam</string>
+    <string name="Ratchadakorn">Ratchadakorn</string>
+    <string name="title">ป้ายจารจร ต้องรู้</string>
+    <string name="test">ทดสอบ</string>
+    <string name="textbttom">เสียง</string>
+</resources>
